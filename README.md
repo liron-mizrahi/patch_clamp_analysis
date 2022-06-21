@@ -4,5 +4,5 @@ An automatic tool to handle recording electrophysiology dataset acquire using pa
 
 ## data Preparation 
 recordings need to be organized af follow: 
-- data/line_label (diff 01012022)/experiment folder/cell # - 00 pF
+- data/line_label (diff 01012022)/experiment folder/cell # - 00 pF </br>
 e.g. data/JNJ008 (diff 07062021)/JNJ008 day 55/cell1-23pf/*.abf
